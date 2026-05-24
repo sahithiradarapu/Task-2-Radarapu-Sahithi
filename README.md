@@ -1,5 +1,5 @@
-Exploratory Data Analysis (EDA):
 This project was completed as part of my Data Analytics Internship at DecodeLabs.
+Exploratory Data Analysis (EDA):
 Project Overview
 
 This project focuses on performing Exploratory Data Analysis (EDA) on an e-commerce sales dataset using Microsoft Excel. The objective of the analysis was to identify customer purchasing patterns, product demand trends, payment preferences, order status distribution, and high-value transactions.
