@@ -1,4 +1,5 @@
 This project was completed as part of my Data Analytics Internship at DecodeLabs.
+
 Exploratory Data Analysis (EDA):
 Project Overview
 
